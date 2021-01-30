@@ -1,2 +1,14 @@
-# iDroid
-For All
+### Supported SoCs
+- mt6572
+- mt6735
+- mt6737
+- mt6739
+- mt6750
+- mt6765
+- mt6768
+- mt6771
+- mt6785
+- mt8127
+- mt8163
+- mt8173
+- mt8695
